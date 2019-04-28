@@ -3,5 +3,5 @@
 #pragma once 
 using namespace std;
 
-string calculateBullAndPgia(string choice, string guess);
+string calculateBullAndPgia(string choice, string guess) override;
 
