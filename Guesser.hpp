@@ -1,7 +1,5 @@
 #include <iostream>
-
-#ifndef Guesser_hpp
-#define Guesser_hpp
+#pragma once 
 
 using namespace std;
 namespace bullpgia{
