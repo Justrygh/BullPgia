@@ -1,6 +1,5 @@
 #include <iostream>
-#ifndef Chooser_hpp
-#define Chooser_hpp
+#pragma once 
 
 using namespace std;
 namespace bullpgia{
