@@ -1,9 +1,7 @@
 #include <iostream>
-#ifndef calculate_hpp
-#define calculate_hpp
 
+#pragma once 
 using namespace std;
 
 string calculateBullAndPgia(string choice, string guess);
 
-#endif
