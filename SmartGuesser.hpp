@@ -17,5 +17,3 @@ namespace bullpgia{
         string guess() override;
     };
 }
-
-#endif
