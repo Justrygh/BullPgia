@@ -17,5 +17,3 @@ namespace bullpgia{
             virtual void learn(string ans){this->last = ans;}
     };
 }
-
-#endif
